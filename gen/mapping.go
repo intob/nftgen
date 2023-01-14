@@ -1,7 +1,7 @@
 package gen
 
 import (
-	"github.com/intob/nftgen/util"
+	"github.com/intob/thinggen/util"
 )
 
 func RandomTraitMapping(traits map[string]Trait) (map[string]Variant, error) {

@@ -7,7 +7,7 @@ import (
 	"image/jpeg"
 	"os"
 
-	"github.com/intob/nftgen/util"
+	"github.com/intob/thinggen/util"
 )
 
 func Render(traitMapping map[string]Variant, base image.Image, outputPath string) error {

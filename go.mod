@@ -1,4 +1,4 @@
-module github.com/intob/nftgen
+module github.com/intob/thinggen
 
 go 1.19
 

@@ -9,8 +9,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/intob/nftgen/gen"
-	"github.com/intob/nftgen/util"
+	"github.com/intob/thinggen/gen"
+	"github.com/intob/thinggen/util"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v3"

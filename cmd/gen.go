@@ -10,7 +10,7 @@ import (
 	"hash/fnv"
 	"os"
 
-	"github.com/intob/nftgen/gen"
+	"github.com/intob/thinggen/gen"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v3"
