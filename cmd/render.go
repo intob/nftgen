@@ -52,6 +52,9 @@ to quickly create a Cobra application.`,
 			os.Exit(1)
 		}
 		i := 0
+		if outputPath == "" {
+			outputPath = "render"
+		}
 		os.RemoveAll(outputPath)
 		err = os.Mkdir(outputPath, fs.ModePerm)
 		if err != nil {
