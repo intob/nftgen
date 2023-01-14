@@ -1,0 +1,23 @@
+count: 8
+name: grumpycat
+img: test/grumpy_cat.jpg
+
+traits:
+  sunnies:
+    none:
+    raybans:
+      img: test/sunnies.png
+      x: 180
+      y: 120
+  doobie:
+    none:
+    doob:
+      img: test/doobie.png
+      x: 330
+      y: 265
+  hat:
+    none:
+    steve:
+      img: test/steve_hat.png
+      x: 130
+      y: -100

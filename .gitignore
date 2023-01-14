@@ -1,0 +1,5 @@
+.DS_STORE
+
+test/gen.yml
+test/render/*
+test/output.jpg
